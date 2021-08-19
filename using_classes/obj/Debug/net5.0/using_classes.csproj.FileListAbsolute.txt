@@ -1,4 +1,3 @@
-/Users/rtorres/playground/csharp-playground/using_classes/obj/Debug/net5.0/using_classes.csprojAssemblyReference.cache
 /Users/rtorres/playground/csharp-playground/using_classes/obj/Debug/net5.0/using_classes.GeneratedMSBuildEditorConfig.editorconfig
 /Users/rtorres/playground/csharp-playground/using_classes/obj/Debug/net5.0/using_classes.AssemblyInfoInputs.cache
 /Users/rtorres/playground/csharp-playground/using_classes/obj/Debug/net5.0/using_classes.AssemblyInfo.cs
@@ -13,3 +12,4 @@
 /Users/rtorres/playground/csharp-playground/using_classes/obj/Debug/net5.0/ref/using_classes.dll
 /Users/rtorres/playground/csharp-playground/using_classes/obj/Debug/net5.0/using_classes.pdb
 /Users/rtorres/playground/csharp-playground/using_classes/obj/Debug/net5.0/using_classes.genruntimeconfig.cache
+/Users/rtorres/playground/csharp-playground/using_classes/obj/Debug/net5.0/using_classes.csproj.AssemblyReference.cache
