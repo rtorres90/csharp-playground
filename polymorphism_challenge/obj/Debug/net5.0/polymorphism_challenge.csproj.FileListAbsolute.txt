@@ -1,0 +1,15 @@
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/Debug/net5.0/polymorphism_challenge.csproj.AssemblyReference.cache
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/Debug/net5.0/polymorphism_challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/Debug/net5.0/polymorphism_challenge.AssemblyInfoInputs.cache
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/Debug/net5.0/polymorphism_challenge.AssemblyInfo.cs
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/Debug/net5.0/polymorphism_challenge.csproj.CoreCompileInputs.cache
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/bin/Debug/net5.0/polymorphism_challenge.deps.json
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/bin/Debug/net5.0/polymorphism_challenge.runtimeconfig.json
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/bin/Debug/net5.0/polymorphism_challenge.runtimeconfig.dev.json
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/bin/Debug/net5.0/polymorphism_challenge.dll
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/bin/Debug/net5.0/ref/polymorphism_challenge.dll
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/bin/Debug/net5.0/polymorphism_challenge.pdb
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/Debug/net5.0/polymorphism_challenge.dll
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/Debug/net5.0/ref/polymorphism_challenge.dll
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/Debug/net5.0/polymorphism_challenge.pdb
+/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/Debug/net5.0/polymorphism_challenge.genruntimeconfig.cache

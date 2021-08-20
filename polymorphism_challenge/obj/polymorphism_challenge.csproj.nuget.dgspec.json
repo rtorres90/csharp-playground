@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rtorres/playground/csharp-playground/using_classes/using_classes.csproj": {}
+    "/Users/rtorres/playground/csharp-playground/polymorphism_challenge/polymorphism_challenge.csproj": {}
   },
   "projects": {
-    "/Users/rtorres/playground/csharp-playground/using_classes/using_classes.csproj": {
+    "/Users/rtorres/playground/csharp-playground/polymorphism_challenge/polymorphism_challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rtorres/playground/csharp-playground/using_classes/using_classes.csproj",
-        "projectName": "using_classes",
-        "projectPath": "/Users/rtorres/playground/csharp-playground/using_classes/using_classes.csproj",
+        "projectUniqueName": "/Users/rtorres/playground/csharp-playground/polymorphism_challenge/polymorphism_challenge.csproj",
+        "projectName": "polymorphism_challenge",
+        "projectPath": "/Users/rtorres/playground/csharp-playground/polymorphism_challenge/polymorphism_challenge.csproj",
         "packagesPath": "/Users/rtorres/.nuget/packages/",
-        "outputPath": "/Users/rtorres/playground/csharp-playground/using_classes/obj/",
+        "outputPath": "/Users/rtorres/playground/csharp-playground/polymorphism_challenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/rtorres/.config/NuGet/NuGet.Config"
+          "/Users/rtorres/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

@@ -2,20 +2,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Car.cs">
     <Files>
       <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Car.cs" Line="10" Column="60" />
+      <File FileName="Car.cs" Line="8" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="using_classes" expanded="True">
-            <Node name="using_classes" expanded="True">
-              <Node name="Car.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="using_classes" expanded="True" selected="True" />
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
