@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rtorres/playground/csharp-playground/using_classes/using_classes.csproj": {}
+    "/Users/rtorres/playground/csharp-playground/Workflow/Workflow/Workflow.csproj": {}
   },
   "projects": {
-    "/Users/rtorres/playground/csharp-playground/using_classes/using_classes.csproj": {
+    "/Users/rtorres/playground/csharp-playground/Workflow/Workflow/Workflow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rtorres/playground/csharp-playground/using_classes/using_classes.csproj",
-        "projectName": "using_classes",
-        "projectPath": "/Users/rtorres/playground/csharp-playground/using_classes/using_classes.csproj",
+        "projectUniqueName": "/Users/rtorres/playground/csharp-playground/Workflow/Workflow/Workflow.csproj",
+        "projectName": "Workflow",
+        "projectPath": "/Users/rtorres/playground/csharp-playground/Workflow/Workflow/Workflow.csproj",
         "packagesPath": "/Users/rtorres/.nuget/packages/",
-        "outputPath": "/Users/rtorres/playground/csharp-playground/using_classes/obj/",
+        "outputPath": "/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rtorres/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

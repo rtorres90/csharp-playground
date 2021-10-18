@@ -1,13 +1,18 @@
 ﻿<Properties StartupConfiguration="{0FFACF58-C807-447B-ACCA-0C40CB2FD01E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Car.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vehicle.cs">
     <Files>
       <File FileName="Program.cs" Line="1" Column="1" />
       <File FileName="Car.cs" Line="8" Column="36" />
+      <File FileName="Vehicle.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="using_classes" expanded="True" selected="True" />
+          <Node name="using_classes" expanded="True">
+            <Node name="using_classes" expanded="True">
+              <Node name="Vehicle.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
