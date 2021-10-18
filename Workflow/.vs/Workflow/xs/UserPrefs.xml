@@ -1,22 +1,32 @@
 ﻿<Properties StartupConfiguration="{F3855348-C741-4BF8-900C-E408BE40D7A9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Workflow/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Workflow.UnitTests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workflow.UnitTests/WorkflowEngineTests.cs">
     <Files>
-      <File FileName="Workflow/Program.cs" Line="1" Column="1" />
+      <File FileName="Workflow/Program.cs" Line="16" Column="48" />
+      <File FileName="Workflow/WorkflowEngine.cs" />
+      <File FileName="Workflow/IActivity.cs" />
+      <File FileName="Workflow.UnitTests/WorkflowEngineTests.cs" Line="9" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Workflow" expanded="True">
-            <Node name="Workflow" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Workflow" expanded="True" />
+            <Node name="Workflow.UnitTests" expanded="True">
+              <Node name="WorkflowEngineTests.cs" selected="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Workflow" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Workflow FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Workflow PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -1,0 +1,15 @@
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/bin/Debug/net5.0/Workflow.deps.json
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/bin/Debug/net5.0/Workflow.runtimeconfig.json
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/bin/Debug/net5.0/Workflow.runtimeconfig.dev.json
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/bin/Debug/net5.0/Workflow.dll
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/bin/Debug/net5.0/ref/Workflow.dll
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/bin/Debug/net5.0/Workflow.pdb
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/Debug/net5.0/Workflow.csproj.AssemblyReference.cache
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/Debug/net5.0/Workflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/Debug/net5.0/Workflow.AssemblyInfoInputs.cache
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/Debug/net5.0/Workflow.AssemblyInfo.cs
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/Debug/net5.0/Workflow.csproj.CoreCompileInputs.cache
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/Debug/net5.0/Workflow.dll
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/Debug/net5.0/ref/Workflow.dll
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/Debug/net5.0/Workflow.pdb
+/Users/rtorres/playground/csharp-playground/Workflow/Workflow/obj/Debug/net5.0/Workflow.genruntimeconfig.cache
